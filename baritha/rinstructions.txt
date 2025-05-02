@@ -1,0 +1,48 @@
+Contest Title:
+
+Mini Calculator – vContest1
+
+
+---
+
+Problem Statement:
+
+Create a simple command-line calculator that:
+
+Asks the user for two numbers
+
+Asks the user for an operation: +, -, *, or /
+
+Outputs the result
+
+Repeats until the user types "exit"
+
+
+
+---
+
+Sample Input & Output:
+
+Enter first number: 10  
+Enter second number: 5  
+Enter operation (+, -, *, /): +  
+Result: 15  
+
+Do you want to calculate again? (yes/exit): yes
+
+Enter first number: 8  
+Enter second number: 2  
+Enter operation (+, -, *, /): /  
+Result: 4.0
+
+Do you want to calculate again? (yes/exit): exit
+Goodbye!
+
+
+---
+
+Requirements:
+
+Must be done in any language (Python, JavaScript, etc.)
+
+No libraries
