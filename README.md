@@ -7,10 +7,10 @@ This repository hosts the submissions and results of **Weekround #1** — a fast
 
 ## 🏆 **FINAL WINNER ANNOUNCEMENT**
 
-<h1 align="center" style="color:red;">🎉 FINAL WINNER: <a href="https://github.com/Panama-Sec">@Bharitha</a> 🎉</h1>
+<h1 align="center" style="color:red;">🎉 FINAL WINNER: <a href="https://github.com/Panama-Sec">@Baritha Pathmasiri</a> 🎉</h1>
 
 <p align="center">
-  <strong>Huge congratulations to <a href="https://github.com/Panama-Sec">@Bharitha</a> for winning Weekround #1!</strong><br>
+  <strong>Huge congratulations to <a href="https://github.com/Panama-Sec">@Baritha Pathmasiri</a> for winning Weekround #1!</strong><br>
   With clean logic, efficient code, and strong presentation — Bharitha nailed it in just 20 minutes. 🚀🔥
 </p>
 
